@@ -1,4 +1,4 @@
-mood= int(input("¿sos feliz?"))
+mood= input("¿sos feliz?")
 if mood == "si":
     status = True
     status == True
